@@ -12,7 +12,7 @@
  * Minimal code for arduino based goldSprint for two opponents
  * This programm is not suitable for production GoldSprint :
  * this is an early proof of concept version.
- * However, it worked nicely during 8 hours in a GoldSprint contest in Lausanne.
+ * However, it worked nicely during 8 hours in a GoldSprint contest.
  * ----------------------------------------------------------------------------
 */
 
