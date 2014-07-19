@@ -1,6 +1,6 @@
 
-TurbinoDuino
-############
+### TurbinoDuino
+
 
 Minimalist arduino GoldSprint program for 2 opponents.
 
