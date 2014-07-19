@@ -1,7 +1,8 @@
 
 TurbinoDuino
 ############
-Minimalist arduino GoldSprint program for 2 oppondents.
+
+Minimalist arduino GoldSprint program for 2 opponents.
 
 Main hardware requirement:
 
